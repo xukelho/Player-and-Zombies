@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Scene Start Low Light.unity
+- path: Assets/Scenes/Scene Level 1 Low Light.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
